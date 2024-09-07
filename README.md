@@ -45,7 +45,8 @@ Tham gia nhóm Telegram của chúng tôi để được sử dụng những Too
 | `/major`        | [Major](https://t.me/major/start?startapp=1858549801)                                                             | [major-claimer](https://github.com/donguyen82/Major)               |
 | `/tondrips`     | [Ton Drips](https://t.me/ton_drip_bot?start=5914982564)                                                           | [tondrips-claimer](https://github.com/smart-airdrop/tondrips-claimer)         |
 | `/ageofmars`    | [AgeOfMars Energy Bot](https://t.me/ageofmarsenergybot?start=trgiangpham)                                         | [ageofmars-claimer](https://github.com/smart-airdrop/ageofmars-claimer)       |
-| `/blum`         | [Blum](https://t.me/BlumCryptoBot/app?startapp=ref_4WwBGtCuHW)                                                    | [blum-claimer](https://github.com/smart-airdrop/blum-claimer)                 |
+| `/yescoin`         | [YESCOIN](https://t.me/theYescoin_bot/Yescoin?startapp=OMqdcL)                                                    | [blum-claimer](https://github.com/donguyen82/Yescoin)                 |
+| `/yescoin`         | [YESCOIN](https://t.me/theYescoin_bot/Yescoin?startapp=OMqdcL)                                                    | [blum-claimer](https://github.com/donguyen82/Yescoin)                 |
 
 ### Tool Commands
 
