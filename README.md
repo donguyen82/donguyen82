@@ -51,9 +51,9 @@ Tham gia nhóm Telegram của chúng tôi để được sử dụng những Too
 
 | Command      | Description                              | Telegram Link                                                         |
 | ------------ | ---------------------------------------- | --------------------------------------------------------------------- |
-| `/tele_web`  | Play games on Telegram Web               | [Android Emulator for Telegram Web](https://t.me/autoairdropref/43) |
-| `/tele_id`   | Get your Telegram ID on Telegram         | [Telegram ID](https://t.me/smartairdrop2120/64)                       |
-| `/query_id`  | Get your game's query id on Telegram Web | [Query ID](https://t.me/smartairdrop2120/121)                         |
-| `/run_bot`   | Run Auto Claim Bot                       | [Run Bot](https://t.me/smartairdrop2120/152)                          |
-| `/proxy`     | Create data-proxy.json via Google Sheet  | [data-proxy.sheet](https://t.me/smartairdrop2120/6170)                |
-| `/proxy_web` | Create data-proxy.json via Website       | [data-proxy.web](https://t.me/smartairdrop2120/8649)                  |
+| `/tele_web`  | Play games trên Telegram Web               | [Android Emulator for Telegram Web](https://t.me/autoairdropref/43) |
+| `/tele_id`   | Lấy Query_id/user hoặc Token tự động bằng script GPM.         | [Telegram ID](https://t.me/autoairdropref/49)                       |
+| `/query_id`  | Lấy Query_id từ Telegram Web | [Query ID](https://t.me/autoairdropref/44)                         |
+| `/run_bot node`   | Hướng dẫn chạy bot với NODEJS:                        | [Run node](https://t.me/autoairdropref/46)                          |
+| `/run_bot_python`     | Hướng dẫn chạy bot với PYTHON:  | [Run python](https://t.me/autoairdropref/45)                |
+| `/update..` | Tiếp tục cập nhật..       | [Update..](https://t.me/autoairdropref)                  |
