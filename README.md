@@ -56,7 +56,7 @@ Tham gia nhóm Telegram của chúng tôi để được sử dụng những Too
 | Command      | Description                              | Telegram Link                                                         |
 | ------------ | ---------------------------------------- | --------------------------------------------------------------------- |
 | `/tele_web`  | Play games trên Telegram Web               | [Android Emulator for Telegram Web](https://t.me/autoairdropref/43) |
-| `/tele_id`   | Lấy Query_id/user hoặc Token tự động bằng script GPM.         | [Telegram ID](https://t.me/autoairdropref/49)                       |
+| `/query_id script GPM`   | Lấy Query_id/user hoặc Token tự động bằng script GPM.         | [Telegram ID](https://t.me/autoairdropref/49)                       |
 | `/query_id`  | Lấy Query_id từ Telegram Web | [Query ID](https://t.me/autoairdropref/44)                         |
 | `/run_bot node`   | Hướng dẫn chạy bot với NODEJS:                        | [Run node](https://t.me/autoairdropref/46)                          |
 | `/run_bot_python`     | Hướng dẫn chạy bot với PYTHON:  | [Run python](https://t.me/autoairdropref/45)                |
