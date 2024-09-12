@@ -50,6 +50,7 @@ Tham gia nhóm Telegram của chúng tôi để được sử dụng những Too
 | `/birdton`         | [BirdTon](https://t.me/BIRDTonBot/app?startapp=1858549801)                                                    | [BirdTon-Bot](https://github.com/donguyen82/BirdTon)                 |
 | `/cryptorank`         | [Cryptorank](https://t.me/cryptorank_app_bot/points?startapp=ref_1858549801)                                                    | [Cryptorank-Bot](https://github.com/donguyen82/Cryptorank)                 |
 | `/gemzcoin`         | [GemzCoin](https://t.me/gemzcoiN_bot/tap?startapp=21mHhh-UNkN28QY010ES8Rt)                                                    | [Gemzcoin-Bot](https://github.com/donguyen82/Gemzcoin)                 |
+| `/lumoz`         | [Lumoz](https://t.me/Lumoz_Quidditch_Bot/Match?startapp=inviteT5BDR)                                                    | [Lumoz-Bot](https://github.com/donguyen82/Lumoz)                 |
 
 ### Tool Commands
 
