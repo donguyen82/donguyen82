@@ -2,7 +2,7 @@
 
 <img src="https://www.donguyenai.com/icon.png" width="80" height="80" alt="Build With AI logo" />
 
-# Xin chào, mình là Đỗ Nguyên 👋
+# Xin chào, mình là donguyen82 👋
 
 **Mình xây dựng [Build With AI](https://www.donguyenai.com)** — nơi chia sẻ tool AI tải về dùng ngay trên máy cá nhân, cùng blog/review giúp người Việt ứng dụng AI vào công việc và kinh doanh hàng ngày.
 
